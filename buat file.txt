@@ -9,3 +9,8 @@ Yang ingin dipelajari
 - sistem pendukung keputusan
 - html
 - data mining
+
+software
+- vscode
+- netbeans
+- sublime
