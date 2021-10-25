@@ -4,8 +4,8 @@ Nama : Alfito
 
 Yang ingin dipelajari
 - python
-- enkripsi
 - design
 - java
 - sistem pendukung keputusan
 - html
+- data mining
