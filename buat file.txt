@@ -3,3 +3,7 @@ Sistem Operasi Praktikum
 Nama : Alfito
 
 Yang ingin dipelajari
+- python
+- enkripsi
+- design
+- java
