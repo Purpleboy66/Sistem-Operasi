@@ -13,4 +13,6 @@ Yang ingin dipelajari
 software
 - pycharm
 - android studio
+- vscode
 - netbeans
+- sublime
