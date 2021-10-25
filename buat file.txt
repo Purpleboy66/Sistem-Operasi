@@ -11,6 +11,8 @@ Yang ingin dipelajari
 - data mining
 
 software
+- pycharm
+- android studio
 - vscode
 - netbeans
 - sublime
