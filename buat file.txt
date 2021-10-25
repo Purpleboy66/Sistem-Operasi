@@ -7,3 +7,5 @@ Yang ingin dipelajari
 - enkripsi
 - design
 - java
+- sistem pendukung keputusan
+- html
